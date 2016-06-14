@@ -452,5 +452,6 @@ return array(
     'SebastianBergmann\\RecursionContext\\InvalidArgumentException' => $vendorDir . '/sebastian/recursion-context/src/InvalidArgumentException.php',
     'SebastianBergmann\\ResourceOperations\\ResourceOperations' => $vendorDir . '/sebastian/resource-operations/src/ResourceOperations.php',
     'SebastianBergmann\\Version' => $vendorDir . '/sebastian/version/src/Version.php',
+    'TennisGameTest' => $baseDir . '/tests/TennisGameTest.php',
     'Text_Template' => $vendorDir . '/phpunit/php-text-template/src/Template.php',
 );
