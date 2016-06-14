@@ -11,6 +11,6 @@
        "phpunit/phpunit": "5.2.12"
    },
     "autoload": {
-        "classmap": ["src/"]
+        "classmap": ["src/","tests/"]
     }
 }
